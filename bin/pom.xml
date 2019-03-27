@@ -123,12 +123,6 @@
             <artifactId>jaxb-api</artifactId>
             <version>2.2.12</version>
         </dependency>
-        
-            <dependency>
-            <groupId> junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.12</version>
-            </dependency>
     </dependencies>
     <build>
         <finalName>ingresso</finalName>
@@ -155,12 +149,5 @@
             </plugin>
         </plugins>
     </build>
-	 <developers>
-            <developer>
-            <name>Pedro Marques </name>
-            <email>phsmarques001@gmail.com</email>
-            
-           </developer>
-            </developers>
-            
+
 </project>
